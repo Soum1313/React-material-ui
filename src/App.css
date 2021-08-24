@@ -1,0 +1,13 @@
+#s1{
+    border: '1px solid red';
+    width: '300px';
+   
+    color: 'green';
+    margin: 'auto';
+    text-align: 'center';
+    
+}
+#s2{
+    border: '3px solid green';
+    margin: '20px';
+}
